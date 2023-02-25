@@ -146,12 +146,23 @@ Page Styles
     column-gap: 2.5rem;
     grid-template-columns: calc(65% - 2.5rem) 35%;
   }
+  .intro-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .intro-info {
     text-align: left;
   }
 
   .info-header {
     margin-top: 1rem;
+    font-size: 2.5rem;
+    line-height: 3.75rem;
+  }
+  .info-text {
+    font-size: 1.125rem;
+    line-height: 27px;
   }
 
   .footer-center {
