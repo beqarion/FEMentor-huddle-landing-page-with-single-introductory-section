@@ -61,7 +61,7 @@ Users should be able to:
 
 - [Solution](https://github.com/beqarion/huddle-landing-page-with-single-introductory-section)
 
-- [Live Site](https://beqarion.github.io/huddle-landing-page-with-single-introductory-section/)
+- [Live Site](https://beqarion.github.io/FEMentor-huddle-landing-page-with-single-introductory-section/)
 
   
 
